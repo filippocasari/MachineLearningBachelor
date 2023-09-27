@@ -1,2 +1,3 @@
 # MachineLearningBachelor
-Machine Learning Bachelor
+Machine Learning Bachelor project
+My very first ML project
